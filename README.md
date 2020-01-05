@@ -7,11 +7,11 @@
 
 
 ## 작성 규칙
-문서 생성은 [Github Flavored Markdown](https://help.github.com/en/github/writing-on-github)을 준수합니다.
-문서의 확장자는 .md를 사용합니다.
-언어나 기술명으로 폴더를 만드며, root폴더에는 문서를 생성하지 않는다.
-폴더와 파일명의 공백은 언더스코어(_)로 대체헌다.
-각 언어별 코딩스타일을 지정한 후 해당 스타일을 준수한다.
+1. 문서 생성은 [Github Flavored Markdown](https://help.github.com/en/github/writing-on-github)을 준수합니다.
+2. 문서의 확장자는 .md를 사용합니다.
+3. 언어나 기술명으로 폴더를 만드며, root폴더에는 문서를 생성하지 않는다.
+4. 폴더와 파일명의 공백은 언더스코어(_)로 대체헌다.
+5. 각 언어별 코딩스타일을 지정한 후 해당 스타일을 준수한다.
 
 
 
