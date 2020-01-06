@@ -4,7 +4,7 @@
 
 ## In this article
 - [Headings](#Headings)
-- [Styling text](#Stylingtext)
+- [Styling text](#Styling text)
 - Quoting text
 - Quoting code
 - Links
