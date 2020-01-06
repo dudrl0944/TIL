@@ -3,17 +3,17 @@
 
 ## In this article
 
-- [포인터 문법(pointer syntax)](##포인터-문법(pointer-syntax))
-- [포인터 연산자(pointer operator)](#포인터-연산자(pointer-operator))
-- [다중포인터(multiple pointer)](#다중포인터(multiple-pointer))
-- [객체에 대한 포인터(pointer to obejct)](#객체에-대한-포인터(pointer-to-obejct))
-- [void형 포인터(pointer to void)](#void형-포인터(pointer-to-void))
-- [함수에 대한 포인터(pointer to functions)](#함수에-대한-포인터(pointer-to-functions))
-- [데이터 멤버에 대한 포인터(pointer to data members)](#데이터-멤버에-대한-포인터(pointer-to-data-members))
-- [멤버 함수에 대한 포인터(pointer to member functions)](#멤버-함수에-대한-포인터(pointer-to-member-functions))
-- [널 포인트(null pointer)](#널-포인트(null-pointer))
-- [허상 포인터(Dangling pointer)](#허상-포인터(Dangling-pointer))
-- [상수(constness)](#상수(constness))
+- [포인터 문법(pointer syntax)](#포인터-문법pointer-syntax)
+- [포인터 연산자(pointer operator)](#포인터-연산자pointer-operator)
+- [다중포인터(multiple pointer)](#다중포인터multiple-pointer)
+- [객체에 대한 포인터(pointer to obejct)](#객체에-대한-포인터pointer-to-obejct)
+- [void형 포인터(pointer to void)](#void형-포인터pointer-to-void)
+- [함수에 대한 포인터(pointer to functions)](#함수에-대한-포인터pointer-to-functions)
+- [데이터 멤버에 대한 포인터(pointer to data members)](#데이터-멤버에-대한-포인터pointer-to-data-members)
+- [멤버 함수에 대한 포인터(pointer to member functions)](#멤버-함수에-대한-포인터pointer-to-member-functions)
+- [널 포인트(null pointer)](#널-포인트null-pointer)
+- [허상 포인터(Dangling pointer)](#허상-포인터dangling-pointer)
+- [상수(constness)](#상수constness)
 
 
 ## 포인터 문법(pointer syntax)
