@@ -3,8 +3,8 @@
 [GFM](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text) 페이지 보면서 연습한 페이지 입니다.
 
 ## In this article
-- Headings
-- Styling text
+- [Headings](#Headings)
+- [Styling text](#Stylingtext)
 - Quoting text
 - Quoting code
 - Links
