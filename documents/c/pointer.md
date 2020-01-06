@@ -3,7 +3,7 @@
 
 ## In this article
 
-- [포인터 문법(pointer syntax)](#포인터-문법(pointer-syntax))
+- [포인터 문법(pointer syntax)](##포인터-문법(pointer-syntax))
 - [포인터 연산자(pointer operator)](#포인터-연산자(pointer-operator))
 - [다중포인터(multiple pointer)](#다중포인터(multiple-pointer))
 - [객체에 대한 포인터(pointer to obejct)](#객체에-대한-포인터(pointer-to-obejct))
