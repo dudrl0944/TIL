@@ -22,9 +22,9 @@
 
 
 ## To Do List
--  [x] github_flavored_markdown.md 문서 이어서 작성
--  [  ] pointer.md 문서 이어서 작성
--  [  ] 포인터를 사용하여 링크드리스트 구현 및 테스트
+-  [ ] github_flavored_markdown.md 문서 이어서 작성
+-  [ ] pointer.md 문서 이어서 작성
+-  [ ] 포인터를 사용하여 링크드리스트 구현 및 테스트
 
 
 
