@@ -16,8 +16,20 @@
 
 
 ## 오늘의 한줄
-[2020년 1월 3일] - 늙어서 내가 하고 싶은대로 개발하는 개발자가 되자. 
-[2020년 1월 5일] - Github Flavored Markdown에 익숙해질 때까지 시간이 걸릴 것 같다.
+* **[2020년 1월 3일]** - 늙어서 내가 하고 싶은대로 개발하는 개발자가 되자. 
+* **[2020년 1월 5일]** - [github_flavored_markdown.md](./documents/markdown/github_flavored_markdown.md) / Github Flavored Markdown에 익숙해질 때까지 시간이 걸릴 것 같다.
+* **[2020년 1월 6일]** - [pointer.md](./documents/c/pointer.md)포인터의 개념에 대해 정리하였습니다. 추후 포인터를 사용한 링크드리스트 구현 및 테스트에 대해 공부를 해보면서 이해도를 테스트 해보고 싶다.
 
+
+## To Do List
+-  [x] github_flavored_markdown.md 문서 이어서 작성
+-  [  ] pointer.md 문서 이어서 작성
+-  [  ] 포인터를 사용하여 링크드리스트 구현 및 테스트
+
+
+
+
+
+ 
 ## License
 © 2020 dudrl0944 [Creative Commons Attribution License](https://creativecommons.org/licenses/by/3.0/)
