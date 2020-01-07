@@ -107,15 +107,10 @@ int main(){
 ```
 ```
 출력
-a 	: 123					&a 		: -403981576
-pa 	: -403981576			ppa 	: -403981584
-*pa : 123					*ppa 	: -403981584
-*pa : 123					**ppa 	: 123 
-
------------------------------------------------------
-
-
-
+a 	: 123					&a 	: -403981576
+pa 	: -403981576				ppa 	: -403981584
+*pa 	: 123					*ppa 	: -403981584
+*pa 	: 123					**ppa 	: 123 
 ```
 |주소|값||컴파일러|
 |--------|------|-----|---|
@@ -213,7 +208,6 @@ Derived가 다형성 인 경우 이러한 포인터를 사용하여 가상 함�
 ## void형 포인터(pointer to void)
 Pointer to object of any type can be implicitly converted to pointer to void (optionally cv-qualified); the pointer value is unchanged. The reverse conversion, which requires static_cast or explicit cast, yields the original pointer value:
 
-
 임의의 유형의 객체에 대한 포인터는 암시 적으로 void에 대한 포인터로 변환 될 수 있습니다 (선택적으로 cv 규정). 포인터 값은 변경되지 않습니다. static_cast 또는 명시 적 캐스트가 필요한 역변환은 원래 포인터 값을 생성합니다.
 
 ```c
@@ -246,6 +240,7 @@ void (*p2)(int) = f; // same as &f
 Unlike functions or references to functions, pointers to functions are objects and thus can be stored in arrays, copied, assigned, etc.
 
 A pointer to function can be used as the left-hand operand of the function call operator, this invokes the pointed-to function:
+
 
 ```c
 int f(int n)
