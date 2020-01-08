@@ -19,17 +19,19 @@
 * **[2020년 1월 3일]** - 늙어서 내가 하고 싶은대로 개발하는 개발자가 되자. 
 * **[2020년 1월 5일]** - [github_flavored_markdown.md](./documents/markdown/github_flavored_markdown.md) / Github Flavored Markdown에 익숙해질 때까지 시간이 걸릴 것 같다.
 * **[2020년 1월 6일]** - [pointer.md](./documents/c/pointer.md)포인터의 개념에 대해 정리하였습니다. 추후 포인터를 사용한 링크드리스트 구현 및 테스트에 대해 공부를 해보면서 이해도를 테스트 해보고 싶다.
+* **[2020년 1월 7일]** - [pointer.md](./documents/c/pointer.md)문서를 80%정도 작성하였다. 추후 번역하지 못한 부분을 번역하면서 공부하면 될 것 같다. Branch에서 master로 pull request하다가 conflict에러가 발생했다. master에서 pointer.md파일을 건들여서 그런것 같다. 추후 github의 동작에 대해 이해하고 conflict가 발생하지 않는 방법과 효율적으로 github를 사용하는 방법에 대해 고민해봐야겠다.
 
 
 ## To Do List
 -  [ ] github_flavored_markdown.md 문서 이어서 작성
--  [ ] pointer.md 문서 이어서 작성
+-  [x] pointer.md 문서 이어서 작성
 -  [ ] 포인터를 사용하여 링크드리스트 구현 및 테스트
--  [ ] Branch 사용하는 방법 숙지
+-  [x] Branch 사용하는 방법 숙지
 - [ ] 핀테크 프로젝트
 - [ ] 자료구조 구현 후 시각화 하는 토이 프로젝트 진행
 - [ ] 스프링을 사용한 웹 서비스 제작
-
+- [ ] pointer.md 문서 번역하지 못한 부분 번역하기
+- [ ] confilct 발생하는 이유와 피하는 법 알아보기
 
 
 
