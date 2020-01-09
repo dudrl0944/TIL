@@ -20,7 +20,8 @@
 * **[2020년 1월 5일]** - [github_flavored_markdown.md](./documents/markdown/github_flavored_markdown.md) / Github Flavored Markdown에 익숙해질 때까지 시간이 걸릴 것 같다.
 * **[2020년 1월 6일]** - [pointer.md](./documents/c/pointer.md)포인터의 개념에 대해 정리하였습니다. 추후 포인터를 사용한 링크드리스트 구현 및 테스트에 대해 공부를 해보면서 이해도를 테스트 해보고 싶다.
 * **[2020년 1월 7일]** - [pointer.md](./documents/c/pointer.md)문서를 80%정도 작성하였다. 추후 번역하지 못한 부분을 번역하면서 공부하면 될 것 같다. Branch에서 master로 pull request하다가 conflict에러가 발생했다. master에서 pointer.md파일을 건들여서 그런것 같다. 추후 github의 동작에 대해 이해하고 conflict가 발생하지 않는 방법과 효율적으로 github를 사용하는 방법에 대해 고민해봐야겠다.
-
+* **[2020년 1월 8일]**  -  editting pointer 브런치에서 PR 후  master Branch로 merge하는 작업을 진행했다. conflict가 발생하였고, 이에 대해 주의하면서 git을 사용하야겠다.
+*  **[2020년 1월 9일]** - 우연히 프로그래머스 사이트에서 장고를 사용한 [REST API 서버 구축 챌린지](https://programmers.co.kr/assignments/12141/challenges/208)를 발견하고 재미삼아 참여를 하였다. 장고에서 mysql 테이블을 생성하는 과정에서 막혀있다. 내일 해당 이슈에 대해 공부하고 해결해야 될 것 같다.
 
 ## To Do List
 -  [ ] github_flavored_markdown.md 문서 이어서 작성
