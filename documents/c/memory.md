@@ -40,12 +40,12 @@ For instance the global string defined by char s[] = “hello world” in C and 
 Ex: static int i = 10 will be stored in data segment and global int i = 10 will also be stored in data segment
 
 ## Uninitialized data segment
-Uninitialized data segment, often called the “bss” segment, named after an ancient assembler operator that stood for “block started by symbol.” Data in this segment is initialized by the kernel to arithmetic 0 before the program starts executing
+종종 `bss 세그먼트`라고 불리는 초기화 되지 않은 데이터 세그먼트는  `block started by symbol`이라는 초기 어셈블리어 연산자의 이름을 따서 명명되었다. 프로그램이 실행되지 전에 커널에 의해 이 세그먼트의 데이터가 0으로 초기화 된다.
 
-uninitialized data starts at the end of the data segment and contains all global variables and static variables that are initialized to zero or do not have explicit initialization in source code.
+초기화 되지 않은 데이터는 데이터 세그먼트의 끝에서 시작되며, 0으로 초기화 되어있거나 소스 코드에 명시적인 초기화가 없는 모든 글로벌 변수와 정적 변수를 포함한다.
 
-For instance a variable declared static int i; would be contained in the BSS segment.
-For instance a global variable declared int j; would be contained in the BSS segment.
+예를 들어 `static int i;`으로 선언된 변수`i`는 BBS 세그먼트에 포함되고, 
+글로벌 변수로 선언 된 `int j`또 BBS 세그먼트에 포함된다.
 
 
 ## Stack

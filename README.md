@@ -25,6 +25,7 @@
 *  **[2020년 1월 10일]** - [보안기사](./doucments/study book/정보처리 보안기사/KEYWORD.md)에 대한 키워드를 요약 정리하였다.
 *  **[2020년 1월 11일]** - 티스토리와 Github에 [SQLD관련 공부내용](https://easy-develop.tistory.com/114)을 작성하였다. 티스토리와 Github에 같은 내용을 동시에 작성하는것이 비효율적이다. 해당 문제를 해결할 수 있는 방안에 대해 생각을 해봐야겠다.
 * **[2020년 1월 12일]** - [memory.md](./documents/c/memory.md) C언어에서 memory 구조에 대해 작성을 시작했다. 요즘 보안기사 공부하느라 github에 시간을 많이 투자하지 못하는 듯하다. 보안기사의 암호알고리즘 관련한 주제로 commit을 진행해야겠다.
+* **[2020년 1월 13일]** - [memory.md](./documents/c/memory.md) BBS 세그먼트부분을 추가했다.
 
 
 ## To Do List
