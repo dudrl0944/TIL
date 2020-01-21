@@ -49,6 +49,18 @@ Ex: static int i = 10 will be stored in data segment and global int i = 10 will 
 
 
 ## Stack
+스택 영역은 전통적으로 힙 영역과 인접하고 힙 영역과 반대 방향으로 메모리가 쌓인다. 스택 포인터와 힙 포인터가 만났을 때, 사용가능한 메모리가 모두 소진된 것이다.(현대적인 큰 주소 공간과 가상 메모리 기술을 통해 거의 모든 곳에 배치 될 수 있지만, 일반적으로 반대방향으로 성장한다.)
+
+스택 영역은 LIFO구조로 프로그램의 스택을 포함하며, 일반적으로 메모리의 상단에 위치되어 딘다.
+스택 영역은 일반적으로 메모리의 상위 부분에 위치하는 LIFO 구조인 프로그램 스택을 포함한다.
+The stack area contains the program stack, a LIFO structure, typically located in the higher parts of memory.
+이부분에 대한 문장구조를 잘 모르겠다. 나중에 다시 해석 해볼것.
+
+with N and N  ( N 를 통해., 전치사구)
+typically - 일반적으로
+be placed ~어디에 위치되어 지다.(배치 된다.)
+
+
 The stack area traditionally adjoined the heap area and grew the opposite direction; when the stack pointer met the heap pointer, free memory was exhausted. (With modern large address spaces and virtual memory techniques they may be placed almost anywhere, but they still typically grow opposite directions.)
 
 The stack area contains the program stack, a LIFO structure, typically located in the higher parts of memory. On the standard PC x86 computer architecture it grows toward address zero; on some other architectures it grows the opposite direction. A “stack pointer” register tracks the top of the stack; it is adjusted each time a value is “pushed” onto the stack. The set of values pushed for one function call is termed a “stack frame”; A stack frame consists at minimum of a return address.
